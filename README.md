@@ -40,7 +40,7 @@ Note that the `Prerelease` flag can be omitted for non-prerelease packages and c
 
 # Building
 
-The site is built using Cake (of course!). There are a number of different targets depending on what you're working on and how complete you want the generated site to be.
+The site is built using Cake. There are a number of different targets depending on what you're working on and how complete you want the generated site to be.
 
 `build --target=GetSource` will download the Cake source code that the generation process uses to create the "API" section.
 
